@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a software engineer with particular interests for Cyber Security and AI Safety.
+
 <!--
 **DanielJMWilliams/DanielJMWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
