@@ -1,5 +1,5 @@
 ---
-title: Exploring Polysemantic Universaility with Embeddings
+title: Exploring Polysemantic Universality with Embeddings
 date: 2024-06-09 18:20:00 +0100
 description: This blog posts documents my AI Safety Fundamentals project exploring the nature of polysemanticity with embedding models.
 categories: [AI Safety, Mechanistic Interpretability]
