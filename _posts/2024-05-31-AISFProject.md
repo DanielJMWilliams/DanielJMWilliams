@@ -100,3 +100,5 @@ The purpose of this project was to test my intuitions of polysemantic relationsh
 - [Zoom In: An Introduction to Circuits (distill.pub)](https://distill.pub/2020/circuits/zoom-in/)
 - [Toy Models of Superposition (arxiv.org)](https://arxiv.org/abs/2209.10652)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (transformer-circuits.pub)](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+
+If you would like to discuss this project with me, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/daniel-williams-5a74a71b0/).
