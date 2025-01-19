@@ -7,8 +7,8 @@ I am a software engineer with particular interests for Cyber Security and AI Saf
 - AWS deployment with Terraform.
 
 ### ⚡Featured Projects
-- [Blog](www.danielspyros.com)
-- [Kartoshka Music](kmusic.danielspyros.com)
+- [Blog](https://www.danielspyros.com)
+- [Kartoshka Music](https://kmusic.danielspyros.com)
 
 ### 🌱 I’m currently learning
 - Tailwind CSS
