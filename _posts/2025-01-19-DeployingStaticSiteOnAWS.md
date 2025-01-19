@@ -13,7 +13,7 @@ In this tutorial I will show you how to deploy a static site on AWS via an S3 bu
 ## Related Tutorials
 - Creating a static website using Jekyll (coming soon). 
 - Deploying a static site on AWS (this tutorial).
-- Serving Static Site from S3 Bucket over HTTPS with Cloudfront (coming soon).
+- [Serving Static Site from S3 Bucket over HTTPS with Cloudfront]({% post_url 2025-01-19-Cloudfront %}).
 - Automating the deployment of a static site using Github Actions (coming soon).
 
 # Prerequisites.
@@ -145,5 +145,5 @@ Go to your site. In my case it is at www.danielspyros.com.
 
 Voilà. It's all working, albeit over HTTP. Although my site is just a blog and HTTP is fine, I don't like that web browsers add a big warning saying "Not Secure". It makes the site look less professional and may put off some users from using the site. 
 
-In the next tutorial, I will show you how to serve the site over HTTPS with a cloudfront distribution. After that, I will show you how to automatically update the site with Github Actions CICD.
+In the next tutorial, I will show you how to [Serve the site over HTTPS with a CloudFront distribution]({% post_url 2025-01-19-Cloudfront %}). After that, I will show you how to automatically update the site with Github Actions CICD.
 
